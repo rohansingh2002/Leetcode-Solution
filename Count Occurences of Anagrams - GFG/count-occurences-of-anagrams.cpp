@@ -22,9 +22,10 @@ public:
        if(j-i+1<k){
           j++;
        }
-       else{
+       else if(j-i+1==k){
            if(count==0){
                ans++; 
+               
            }
            if(mp.find(txt[i])!=mp.end()){
               mp[txt[i]]++;
