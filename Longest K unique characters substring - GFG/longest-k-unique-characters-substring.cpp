@@ -17,15 +17,15 @@ class Solution{
         map<char,int> m;
         while(r<n){
             m[s[r]]++;
-            if(m.size()>k){
-            while(m.size()>k){
+           if(m.size()==k){
+                ans=max(ans,r-l+1);
+            }
+            else if(m.size()>k){
+              while(m.size()>k){
                 m[s[l]]--;
                 if(m[s[l]]==0) m.erase(s[l]);
                 l++;
               }
-            }
-            else if(m.size()==k){
-                ans=max(ans,r-l+1);
             }
             r++;
         }
