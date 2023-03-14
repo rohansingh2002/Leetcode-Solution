@@ -12,7 +12,8 @@ class Solution {
         while(i<n) {
             if(nums[i]==1) {
                 i++;
-            } else {
+            }
+            else {
                 if(k>0) {
                     k--;
                     i++;
