@@ -10,26 +10,11 @@ using namespace std;
 class Solution{   
 public:
     int findMissing(int arr[], int n) {
-         int diff = (arr[n-1] - arr[0])/n;
-        int s = 0; 
-        int e = n-1;
-        while(s<=e){
-            int mid = (s+e)/2;
-            if(arr[mid+1]- arr[mid] != diff){
-                return arr[mid] + diff;
-            }
-            if(arr[mid] - arr[mid-1] != diff){
-                return arr[mid-1] + diff;
-            }
-            if(mid>0 && arr[mid] - arr[0] != mid*diff){
-                e = mid-1;
-            }
-            else{
-                s = mid+1;
-            }
-        }
-        return -1;
-    // code here
+        int d=(arr[n-1]-arr[0])/n;
+        for(int i=0;i<n;i++){
+            if(arr[i]+d!=arr[i+1])
+            return arr[i]+d; // code here
+    }
     }
 };
 
