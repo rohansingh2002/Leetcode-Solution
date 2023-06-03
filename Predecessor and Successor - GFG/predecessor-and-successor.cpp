@@ -39,33 +39,46 @@ struct Node
 class Solution
 {
     public:
-    void inorderTraversal(Node*root, vector<Node*>&inorder){
-    if(root == NULL){
-        return;
+    void findPreSuc(Node* root, Node*& pre, Node*& suc, int key)
+    {
+    	// Base case
+    	if (root == NULL) return ;
+    
+    	// If key is present at root
+    	if (root->key == key)
+    	{
+    		// the maximum value in left subtree is predecessor
+    		if (root->left != NULL)
+    		{
+    			Node* tmp = root->left;
+    			while (tmp->right)
+    				tmp = tmp->right;
+    			pre = tmp ;
+    		}
+    
+    		// the minimum value in right subtree is successor
+    		if (root->right != NULL)
+    		{
+    			Node* tmp = root->right ;
+    			while (tmp->left)
+    				tmp = tmp->left ;
+    			suc = tmp ;
+    		}
+    		return ;
+    	}
+    
+    	// If key is smaller than root's key, go to left subtree
+    	if (root->key > key)
+    	{
+    		suc = root ;
+    		findPreSuc(root->left, pre, suc, key) ;
+    	}
+    	else // go to right subtree
+    	{
+    		pre = root ;
+    		findPreSuc(root->right, pre, suc, key) ;
+    	}
     }
-    inorderTraversal(root->left,inorder);
-    inorder.push_back(root);
-    inorderTraversal(root->right, inorder);
-}
-
-void findPreSuc(Node* root, Node*& pre, Node*& suc, int key)
-{
-    pre = NULL;
-    suc = NULL;
-    vector<Node*>inorder;
-    inorderTraversal(root,inorder);
-    int n = inorder.size();
-
-//By traversing from the begining we can find the node just smaller //than key & from the last, the node just larger than key.
-    for(int i = 0 ; i< n; i++){
-        if(inorder[i]->key < key) {
-            pre = inorder[i];
-        }
-        if(inorder[n-i-1]->key > key){
-            suc = inorder[n-i-1];
-        }
-    }
-}
 };
 
 //{ Driver Code Starts.
