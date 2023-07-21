@@ -9,13 +9,12 @@ public:
         }
         for(int i = 1; i < n; i++){
             for(int j = 0; j < m; j++){
-               int up = matrix[i][j] + dp[i - 1][j];
-                int ld = 0;
-                if(j - 1 >= 0)  ld = matrix[i][j] + dp[i - 1][j - 1];
-                else    ld += INT_MAX;
-                int rd = 0;
-                if(j + 1 < n)   rd = matrix[i][j] + dp[i - 1][j + 1];
-                else    rd += INT_MAX;
+                int up = INT_MAX;
+                if(i > 0) up = matrix[i][j] + dp[i - 1][j];
+                int ld = INT_MAX;
+                if(j > 0 && i > 0)  ld = matrix[i][j] + dp[i - 1][j - 1];
+                int rd = INT_MAX;
+                if(j < n - 1 && i > 0)   rd = matrix[i][j] + dp[i - 1][j + 1];
                 dp[i][j] = min(up, min(ld, rd));
             }
         }
