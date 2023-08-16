@@ -2,7 +2,7 @@ class Solution {
 public:
    void dfs(string node,string &dest, unordered_map<string,vector<pair<string,double>>> &mp,double &val,double &res,unordered_set<string> &vis)
    {
-       if(vis.find(node)!=vis.end()) return ;
+      // if(vis.find(node)!=vis.end()) return ;
        vis.insert(node);
        if(node==dest) 
        {
