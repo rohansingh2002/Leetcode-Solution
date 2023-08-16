@@ -12,16 +12,18 @@ public:
             int steps = q.front().second;
             q.pop();
             
-            if(endWord == word){
-                return steps;
-            }
+            
             for(int i = 0; i < word.size() ; i++){
                 char original = word[i];
                 for(char ch = 'a' ; ch <= 'z' ; ch++){
                    word[i] = ch;
                    if(st.find(word) != st.end()){
                        st.erase(word);
+                       if(endWord == word){
+                           return steps+1;
+                        }
                        q.push({word,steps+1});
+                       
                    }
               }
               word[i] = original;
