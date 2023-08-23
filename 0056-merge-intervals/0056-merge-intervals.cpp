@@ -1,15 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& arr) {
-        sort(arr.begin(), arr.end());
-        vector<vector<int>> ans;
-        int n = arr.size();
-        for (int i = 0; i < n; i++) {
-            if (ans.empty() || arr[i][0] > ans.back()[1])
-                ans.push_back(arr[i]);
+    vector<vector<int>> merge(vector<vector<int>>& interval) {
+          vector<vector<int>> result;
+        //base case when threr are no intervals
+        if(interval.size()==0)return result;
+        //sort takes O(nlogn) time
+        sort(interval.begin(),interval.end());
+        //insert the the the first interval in the result
+        result.push_back(interval[0]);
+        int j=0;
+        //Traverse the whole vector .Takes O(n) time
+        for(int i=1;i<interval.size();i++)
+        {
+            //if intevals are overlapping
+            if(result[j][1]>=interval[i][0]) result[j][1]=max(result[j][1],interval[i][1]);
+            //else they are not overlapping
             else
-                ans.back()[1] = max(ans.back()[1], arr[i][1]);
+            {
+                j++;
+                result.push_back(interval[i]);
+            }
         }
-        return ans;
+        return result;
     }
 };
