@@ -10,20 +10,23 @@ public:
     // }
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int>dp(n,-1);
-        dp[0] = nums[0];
-       
+        // vector<int>dp(n,-1);
+       //dp[0] = nums[0];
+       int prev = nums[0];
+       int prev2 = 0;
         for(int i = 1; i < n; i++){
              int take = nums[i];
              int not_take = 0;
             if(i > 0){
-             not_take = 0 + dp[i-1]; 
+             not_take = 0 + prev; 
             }
             if(i > 1){
-             take = nums[i] + dp[i-2];
+             take = nums[i] + prev2;
             }
-            dp[i] = max(take,not_take);  
+            int curr= max(take,not_take);  
+            prev2 = prev;
+            prev = curr;
         }
-        return dp[n-1];
+        return prev;
     }
 };
