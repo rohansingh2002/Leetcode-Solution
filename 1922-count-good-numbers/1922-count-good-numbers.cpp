@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int MOD = 1e9 + 7;
+     int MOD = 1e9 + 7;
      long long power(int a, long long b) {
         if(b == 0)
             return 1;
