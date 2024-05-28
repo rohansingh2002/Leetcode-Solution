@@ -21,7 +21,6 @@ public:
                 int ind = st.top() ;
                 st.pop() ;
                 reverse(s,ind+1,i-1) ;
-                cout<<"s = "<<s<<" " ;
                 s.erase(s.begin()+ind) ;
                 s.erase(s.begin()+i-1) ;
                 i-=2 ;
