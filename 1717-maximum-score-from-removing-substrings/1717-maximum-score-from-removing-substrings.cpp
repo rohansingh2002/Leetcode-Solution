@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maximumGain(string s, int x, int y) {
-              int aCount = 0;
+        int aCount = 0;
         int bCount = 0;
         int lesser = min(x, y);
         int result = 0;
