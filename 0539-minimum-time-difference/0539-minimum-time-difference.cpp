@@ -1,28 +1,24 @@
 class Solution {
 public:
-      int convertToMinutes(string time) {
-        int hours = stoi(time.substr(0, 2));
-        int minutes = stoi(time.substr(3, 2));
-        return hours * 60 + minutes;
-    }
-
-    int findMinDifference(vector<string>& timePoints) {
-        vector<int> minutes;
-        for (string time : timePoints) {
-            minutes.push_back(convertToMinutes(time));
+     int findMinDifference(std::vector<std::string>& timePoints) {
+        int n = timePoints.size();
+        std::vector<int> times(n);
+        for (int i = 0; i < n; ++i) {
+            int hours = std::stoi(timePoints[i].substr(0, 2));
+            int minutes = std::stoi(timePoints[i].substr(3, 2));
+            times[i] = hours * 60 + minutes;
         }
-
-        sort(minutes.begin(), minutes.end());
-
-        int n = minutes.size();
-        int mini = INT_MAX;
-
-        for (int i = 1; i < n; i++) {
-            mini = min(mini, minutes[i] - minutes[i-1]);
+        
+        std::sort(times.begin(), times.end());
+        
+        int minDiff = INT_MAX;
+        
+        for (int i = 0; i < n - 1; ++i) {
+            minDiff = std::min(minDiff, times[i + 1] - times[i]);
         }
-
-        mini = min(mini, (1440 - minutes[n-1] + minutes[0]));
-
-        return mini;
+        
+        minDiff = std::min(minDiff, 1440 + times[0] - times[n - 1]);
+        
+        return minDiff;
     }
 };
