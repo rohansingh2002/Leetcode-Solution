@@ -1,20 +1,22 @@
 class Solution {
 public:
     vector<int> getFinalState(vector<int>& nums, int k, int multiplier) {
-        vector<int>ans = nums;
-        int value = 0, mini = INT_MAX;
-        int j = 0;
-        while(k--){
-            for(int i = 0; i < nums.size(); i++){
-                if(mini > ans[i]){
-                    mini = ans[i];
-                    j = i;
-                    value = multiplier*mini;
-                }
-            }
-            ans[j] = value;
-            mini = INT_MAX;
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
+
+        for (int i = 0; i < nums.size(); ++i) {
+            pq.push({(long long)nums[i], i}); 
         }
-        return ans;
+
+        while (k--) {
+            auto [value, idx] = pq.top();
+            pq.pop();
+            
+            value *= multiplier; 
+            nums[idx] = value;
+            
+            pq.push({value, idx}); 
+        }
+
+        return nums;
     }
 };
