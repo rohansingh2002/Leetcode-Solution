@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0039-combination-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1813-maximum-erasure-value](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
