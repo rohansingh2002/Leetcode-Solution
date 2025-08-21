@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 ## Brainteaser
 |  |
 | ------- |
@@ -112,4 +115,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
