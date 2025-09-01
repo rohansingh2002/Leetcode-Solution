@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1813-maximum-erasure-value) |
+| [1917-maximum-average-pass-ratio](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 ## Quickselect
 |  |
 | ------- |
