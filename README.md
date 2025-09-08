@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0679-24-game) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Matrix
