@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3462-vowels-game-in-a-string](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0679-24-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3462-vowels-game-in-a-string](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Matrix
 |  |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
