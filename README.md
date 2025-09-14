@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1628-count-submatrices-with-all-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0037-sudoku-solver) |
+| [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1813-maximum-erasure-value](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1813-maximum-erasure-value) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3462-vowels-game-in-a-string](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
