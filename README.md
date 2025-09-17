@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1813-maximum-erasure-value](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1813-maximum-erasure-value) |
+| [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
 | [3462-vowels-game-in-a-string](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -178,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
