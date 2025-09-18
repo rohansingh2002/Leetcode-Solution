@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1813-maximum-erasure-value](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1813-maximum-erasure-value) |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
 | ------- |
@@ -186,8 +188,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
