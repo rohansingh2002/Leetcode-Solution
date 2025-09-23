@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 | [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
@@ -194,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3678-design-task-manager) |
+## Two Pointers
+|  |
+| ------- |
+| [0165-compare-version-numbers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
 <!---LeetCode Topics End-->
