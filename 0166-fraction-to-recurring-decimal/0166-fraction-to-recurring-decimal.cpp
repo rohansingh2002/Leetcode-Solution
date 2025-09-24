@@ -1,7 +1,7 @@
 class Solution {
 public:
     string fractionToDecimal(int numerator, int denominator) {
-        if (!numerator) {
+       if (!numerator) {
             return "0";
         }
         string ans;
@@ -27,5 +27,6 @@ public:
             r %= d;
         }
         return ans;
+ 
     }
 };
