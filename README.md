@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1813-maximum-erasure-value](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1813-maximum-erasure-value) |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2429-design-a-food-rating-system) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0166-fraction-to-recurring-decimal) |
 | [0679-24-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0679-24-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
