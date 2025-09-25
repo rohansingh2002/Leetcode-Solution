@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0039-combination-sum) |
+| [0120-triangle](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0679-24-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0120-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
