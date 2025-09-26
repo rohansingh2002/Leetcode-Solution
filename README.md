@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0120-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
+| [0611-valid-triangle-number](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1006-vowel-spellchecker](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1006-vowel-spellchecker) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1917-maximum-average-pass-ratio) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Dynamic Programming
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -204,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
