@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Matrix
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/0498-diagonal-traverse) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/rohansingh2002/Leetcode-Solution/tree/master/3336-water-bottles-ii) |
 ## Memoization
 |  |
 | ------- |
